@@ -1,0 +1,14 @@
+{
+  "name": "fetch_gold_exercise",
+  "version": "1.0.0",
+  "description": "A repository dedicated to solving a single exercise relating to gold bars. The puzzle in question will be solved via e2e automation using Playwright as our testing library.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.46.1",
+    "@types/node": "^22.4.1"
+  }
+}
