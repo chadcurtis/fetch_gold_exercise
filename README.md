@@ -39,3 +39,9 @@ npm init playwright@latest
 ```
 
 Select the default for all prompts provided. When prompted for a language, select `Typescript`.
+
+# Running the tests
+To run the test suite, execute the following command from the command line of your choice (preferably the one you've used to set up your environment in the previous steps):
+```
+npx playwright test src/tests/goldBars.spec.ts
+```
